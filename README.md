@@ -43,8 +43,8 @@ print(cuda.detect())
 
 1. Clone this repository or download the code:
    ```bash
-   git clone https://github.com/yourusername/prime-num-gpu.git
-   cd prime-num-gpu
+   git clone https://github.com/yourusername/gpu-prime-generator
+   cd gpu-prime-generator
    ```
 
 2. Ensure your Python environment has the prerequisites (see above).
