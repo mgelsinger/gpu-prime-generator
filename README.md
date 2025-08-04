@@ -35,10 +35,8 @@ This project provides a CUDA-accelerated Python script that generates an ordered
 
 Verify that Numba sees your GPU:
 ```bash
-python - << "EOF"
 from numba import cuda
 print(cuda.detect())
-EOF
 ```
 
 ## Installation
